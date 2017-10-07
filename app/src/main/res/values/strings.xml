@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Football Score Tracker</string>
+    <string name="goal">goal</string>
+    <string name="foul">foul</string>
+    <string name="teamB">team b</string>
+    <string name="teamA">team a</string>
+    <string name="reset">reset</string>
+</resources>
